@@ -1,0 +1,24 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\henry\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\henry\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\henry\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\henry\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\henry\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\henry\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\henry\desktop\openframeworks\apps\gmc\henry-gmc-new\src\ofapp.cpp(62): warning C4996: 'ofVideoPlayer::getTextureReference': Use getTexture
+  c:\users\henry\desktop\openframeworks\libs\openframeworks\video\ofvideoplayer.h(112): note: see declaration of 'ofVideoPlayer::getTextureReference'
+c:\users\henry\desktop\openframeworks\apps\gmc\henry-gmc-new\src\ofapp.cpp(66): warning C4996: 'ofVideoPlayer::getTextureReference': Use getTexture
+  c:\users\henry\desktop\openframeworks\libs\openframeworks\video\ofvideoplayer.h(112): note: see declaration of 'ofVideoPlayer::getTextureReference'
+  Henry-GMC-new.vcxproj -> C:\Users\Henry\Desktop\openframeworks\apps\GMC\Henry-GMC-new\bin\Henry-GMC-new_debug.exe
+  
+  	                   2	C:\Users\Henry\Desktop\openframeworks\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 3385856	C:\Users\Henry\Desktop\openframeworks\apps\GMC\Henry-GMC-new\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\Henry\Desktop\openframeworks\apps\GMC\Henry-GMC-new\bin\assimp64.dll
+  	  *EXTRA File 		 6942208	C:\Users\Henry\Desktop\openframeworks\apps\GMC\Henry-GMC-new\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Henry\Desktop\openframeworks\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 3385856	C:\Users\Henry\Desktop\openframeworks\apps\GMC\Henry-GMC-new\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\Henry\Desktop\openframeworks\apps\GMC\Henry-GMC-new\bin\assimp64.dll
+  	  *EXTRA File 		 1826304	C:\Users\Henry\Desktop\openframeworks\apps\GMC\Henry-GMC-new\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\Henry\Desktop\openframeworks\apps\GMC\Henry-GMC-new\bin\fmodL.dll
